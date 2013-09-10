@@ -1,0 +1,13 @@
+c:\users\usuario\documents\visual studio 2010\Projects\Imc2\Imc2\bin\Debug\Imc2.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Imc2\Imc2\bin\Debug\Imc2.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\Imc2\Imc2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2010\Projects\Imc2\Imc2\obj\x86\Debug\Imc2.Form1.resources
+c:\users\usuario\documents\visual studio 2010\Projects\Imc2\Imc2\obj\x86\Debug\Imc2.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2010\Projects\Imc2\Imc2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\usuario\documents\visual studio 2010\Projects\Imc2\Imc2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\usuario\documents\visual studio 2010\Projects\Imc2\Imc2\obj\x86\Debug\Imc2.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Imc2\Imc2\obj\x86\Debug\Imc2.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Imc2\Imc2\bin\Debug\Imc2.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Imc2\Imc2\bin\Debug\Imc2.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Imc2\Imc2\obj\x86\Debug\Imc2.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Imc2\Imc2\obj\x86\Debug\Imc2.application
